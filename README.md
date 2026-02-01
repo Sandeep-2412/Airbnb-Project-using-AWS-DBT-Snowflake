@@ -118,16 +118,16 @@ Write DBT tests to validate data at the source and prevent bad data downstream.
 ---
 
 ## 📂 Folder Structure (example)
-├── models/
-│ ├── bronze/
-│ ├── silver/
-│ ├── gold/
-│ └── macros/
-├── snapshots/
-├── dbt_project.yml
-├── profiles.yml
-├── README.md
-└── .gitignore
+├── models/  
+│ ├── bronze/  
+│ ├── silver/  
+│ ├── gold/  
+│ └── macros/  
+├── snapshots/  
+├── dbt_project.yml  
+├── profiles.yml  
+├── README.md  
+└── .gitignore  
 
 ---
 
@@ -158,6 +158,7 @@ Perfect as a portfolio piece to show hiring managers that you can build **indust
 If you enjoyed the project or want feedback, reach out on LinkedIn or GitHub.
 
 ---
+
 
 
 
