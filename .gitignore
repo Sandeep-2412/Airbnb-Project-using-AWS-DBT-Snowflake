@@ -11,3 +11,6 @@ wheels/
 
 # Profiles
 profiles.yml
+
+# VS Code
+.vscode/*
