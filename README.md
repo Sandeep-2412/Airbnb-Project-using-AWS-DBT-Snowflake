@@ -96,12 +96,12 @@ Write DBT tests to validate data at the source and prevent bad data downstream.
 
 ## 💡 Insights & Best Practices
 
-✔ Modular DBT code with configuration-based workflows
-✔ Metadata-driven joins for scalable models
-✔ Comprehensive snapshots for historical tracking
-✔ Source level tests to catch data issues early
-✔ Git & GitHub workflows for professional version control
-✔ Production-realistic design and debugging patterns
+✔ Modular DBT code with configuration-based workflows  
+✔ Metadata-driven joins for scalable models  
+✔ Comprehensive snapshots for historical tracking  
+✔ Source level tests to catch data issues early  
+✔ Git & GitHub workflows for professional version control  
+✔ Production-realistic design and debugging patterns  
 
 ---
 
@@ -158,6 +158,7 @@ Perfect as a portfolio piece to show hiring managers that you can build **indust
 If you enjoyed the project or want feedback, reach out on LinkedIn or GitHub.
 
 ---
+
 
 
 
